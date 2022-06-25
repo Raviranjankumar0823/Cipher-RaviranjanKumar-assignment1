@@ -1,3 +1,5 @@
-# Cloning Amazon site with HTML & CSS
+# Cipher - RaviranjanKumar - Assignment
 
-The source code and assistance guide for the [IronHack's](http://ironhack.com) "Cloning Amazon site with HTML & CSS" video tutorial.
+<h2>Languages Used</h2>
+<li>HTML</li>
+<li>CSS</li>
